@@ -8,10 +8,10 @@ The project uses data from Swiggy's food delivery platform to analyze key metric
 2. Date of high and lows in the orders with respect to same day last week.
 3. Change in traffic as compare to sameday last week.
 4. The overall conversion was broken into smaller parts in the following metrices:
-   a. List to Menu (L2M)
-   b. Menu to Cart (M2C)
-   c. Cart to Payment (C2P)
-   d. Payment to Order (P2O)
+a. List to Menu (L2M)
+b. Menu to Cart (M2C)
+c. Cart to Payment (C2P)
+d. Payment to Order (P2O)
 5. Identify which one of the conversion is fluctuating.
 6. Create Hypothesis on what could be the possibility for fluctuation in conversion.
 7. Validate the hypothesis using supporting data.
